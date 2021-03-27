@@ -23,7 +23,7 @@ st.write("""
   The purpose of this app is analyse the data from [NHANES](https://www.cdc.gov/nchs/nhanes/index.htm) survey. It contains a lot of different health statistics such as blood pressure, BMI, etc. and demographic one like gender, education level and so on. 
   We illustrate several basic techniques for exploring data using methods for understanding multivariate relationships.
 
-  Consider this project as a sort of second part of [TODO](https://franciscot.dev), where I analysed the same data but as univariate analysis.
+  Consider this project as a sort of second part of [this project](https://tarantuviez-10.herokuapp.com/), where I analysed the same data but as univariate analysis.
 """)
 
 def load_data():
@@ -37,6 +37,6 @@ nhanes_multivariate_analysis(df)
 st.write("""
 ## App repository
 
-[Github](https://github.com/ftarantuviez/)TODO
+[Github](https://github.com/ftarantuviez/Exploratory-Data-Analysis-Nhanes-Multivariate)
 """)
 # / This app repository
